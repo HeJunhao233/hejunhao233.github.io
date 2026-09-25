@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍🎓 About Me
 {: .section-title}
 
-Hi, nice to meet you! I am He Junhao, a Year-4 undergraduate student majoring in Electronic Engineering at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong ([HKU](https://www.hku.hk/)).
+Hi, nice to meet you! I am He Junhao, a Year-1 MPhil student at the Department of Electrical and Computer Engineering ([ECE](https://www.ece.hku.hk/)), The University of Hong Kong ([HKU](https://www.hku.hk/)).
 
 # 📖 Educations
 {: .section-title}
