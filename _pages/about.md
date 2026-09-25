@@ -25,14 +25,48 @@ Hi, nice to meet you! I am He Junhao, a Year-4 undergraduate student majoring in
 # 📖 Educations
 {: .section-title}
 
-- *2022.09 - 2026.06(now)*, Undergraduate, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong.
-
+- *2022.09 - 2026.06*, Undergraduate, Department of Electrical and Computer Engineering, The University of Hong Kong, Hong Kong.
+- *2026.09 - 2028.08*, MPhil, Department of Electrical and Computer Engineering, The University of Hong Kong, Hong Kong.
 
 # 🔥 News
+- **[2026.09]** &nbsp;🎉🎉 Join HKU [NICE LAB](https://hongyangdu.github.io/nice/) as a MPhil student supervised by [Prof. Du Hongyang](https://www.eee.hku.hk/people/hy-du/)
 - **[2025.06]** &nbsp;🎉🎉 Join HKU [NICE LAB](https://hongyangdu.github.io/nice/) as a Summer Research Intern supervised by [Prof. Du Hongyang](https://www.eee.hku.hk/people/hy-du/)
 - **[2022.09]** &nbsp;🎉🎉 Start my undergraduate journey at The University of Hong Kong 
  
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge">arXiv 2026</div>
+  <img src='images/NebulaSD.png' alt="NebulaSD" width="100%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[NebulaSD: Many-for-Many Speculative Decoding](https://arxiv.org/abs/2609.29364)
+
+**Junhao He**, Hongyang Du
+
+[**Paper**](https://arxiv.org/pdf/2609.29364.pdf)
+&nbsp;|&nbsp; [**Project**](https://github.com/NICE-HKU/NebulaSD)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div>
+  <div class="badge">arXiv 2026</div>
+  <img src='images/crop.png' alt="CROP" width="100%">
+</div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[CROP: Task Relevance via Counterfactuals for Selective On-Policy Distillation](https://arxiv.org/abs/2608.13387)
+
+Enhan Li, **Junhao He**, Hongyang Du
+
+[**Paper**](https://arxiv.org/pdf/2608.13387.pdf)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div>
   <div class="badge">arXiv 2026</div>
